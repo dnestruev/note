@@ -1,6 +1,0 @@
-{
-  "name": "Ghost Notes",
-  "description": "Secure note-taking app with disappearing notes, hidden sections, and intelligent security.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
